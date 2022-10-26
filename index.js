@@ -9,6 +9,11 @@ app.get("/", (req, res) => {
     res.send(books);
 })
 
+app.get("/course/:id", (req, res) => {
+    const id = req.params.id;
+    res.send(books.find(element => element.id == id));
+})
+
 
 app.listen(port, () => {
     console.log('Example app listening on port', port);
