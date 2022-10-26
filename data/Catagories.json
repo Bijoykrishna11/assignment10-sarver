@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Machine Learning",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/514PnCc2a9L._AC_UL200_SR200,200_.jpg",
+        "disc": "Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, uncovering key insights within data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics."
+    },
+    {
+        "id": 2,
+        "title": " Beginner's Guide to Artificial Intelligence",
+        "img": "https://m.media-amazon.com/images/I/51qWSLJ+3kL._AC_SY780_.jpg",
+        "disc": "The preferred programming languages for AI projects include Python, Java, R, Prolog, Lisp, and Haskell. However, as beginners, having a basic knowledge of Python should suffice for this introductory AI course."
+    },
+    {
+        "id": 3,
+        "title": "Artificial Intelligence in Healthcare",
+        "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1282/9780128245217.jpg",
+        "disc": "Artificial intelligence in healthcare is an overarching term used to describe the use of machine-learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the analysis, presentation, and comprehension of complex medical and health care data. Specifically, AI is the ability of computer algorithms to approximate conclusions based solely on input data"
+    },
+    {
+        "id": 4,
+        "title": "Artificial Intelligence in Healthcare part 2",
+        "img": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Artificial-Intelligence-in-Healthcare.jpg",
+        "disc": "This book does not bore you with generalizations about humanity’s future or overload you with information on troubleshooting TensorFlow code. Instead, it’ll show you how to lead successful AI efforts by choosing the correct opportunities, assembling a diverse team of experts, performing strategic tests, and intentionally creating your solutions to benefit both your company and society"
+    },
+    {
+        "id": 5,
+        "title": "A handbook for business leaders",
+        "img": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Applied-Artificial-Intelligence.jpg",
+        "disc": "Applied Artificial Intelligence is a hands-on handbook for business leaders who want to use machine intelligence to improve their enterprises’ efficiency and the quality of life in their communities. This is your playbook if you want to create enterprise-wide innovation by combining data, technology, design, and people to solve real-world challenges."
+    },
+    {
+        "id": 6,
+        "title": "A First Course in Artificial Intelligence ",
+        "img": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/A-First-Course-in-Artificial-Intelligence.jpg",
+        "disc": "An Introduction to Artificial Intelligence Artificial Intelligence, the first edition takes a bottom-up approach to problem resolution, examining the fundamental techniques (beginning with search-based methods and progressing to knowledge-based methods) and focusing mostly on the intelligence portion. "
+    }
+]
